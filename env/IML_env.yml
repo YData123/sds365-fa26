@@ -14,8 +14,6 @@ dependencies:
   - python
   - scikit-learn
   - seaborn
-  - tensorflow
   - tqdm
-  - keras
   - pytorch
   - gymnasium
