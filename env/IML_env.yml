@@ -18,4 +18,4 @@ dependencies:
   - tqdm
   - keras
   - pytorch
-  - gym
+  - gymnasium
